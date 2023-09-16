@@ -1,2 +1,2 @@
 # inst414_work
-A repository containing work for INST414 (Data Science Techniques)
+A repository containing my work for INST414 (Data Science Techniques)
